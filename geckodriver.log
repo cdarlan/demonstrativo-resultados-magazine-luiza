@@ -1,0 +1,18 @@
+1631662042263	geckodriver	INFO	Listening on 127.0.0.1:61283
+1631662045767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Darlan\\AppData\\Local\\Temp\\rust_mozprofileMcNTdx"
+1631662048913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Darlan\\AppData\\Local\\Temp\\rust_mozprofileMcNTdx\\search.json.mozlz4", (void 0)))
+1631662064310	Marionette	INFO	Listening on port 61291
+1631662066179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631662426236	Marionette	INFO	Stopped listening on port 61291
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631662574660	geckodriver	INFO	Listening on 127.0.0.1:57305
+1631662577760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Darlan\\AppData\\Local\\Temp\\rust_mozprofileslgqSS"
+1631662578676	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Darlan\\AppData\\Local\\Temp\\rust_mozprofileslgqSS\\search.json.mozlz4", (void 0)))
+1631662585590	Marionette	INFO	Listening on port 55458
+1631662586839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631662716791	Marionette	INFO	Stopped listening on port 55458
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
